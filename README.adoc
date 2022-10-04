@@ -1,1 +1,4 @@
 = learn-go
+
+* link:https://gitlab.com/rvasily/msu-go-11[Source code]
+* link:https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I[YouTube playlist]
